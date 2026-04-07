@@ -34,20 +34,22 @@ The dataset is taken from Kaggle (Credit Card Fraud Detection) and transformed i
 ---
 
 ## 📽️ Presentation
-👉 [Download PPT](./presentation.pptx)
+👉 [Download PPT](./PRESENTATION.pptx)
 
 ---
 
 ## 📸 Project Demo
 
 ### Producer
-![Producer](./images/producer.png)
+![Producer](./images/PRODUCER.jpeg)
 
 ### Consumer
-![Consumer](./images/consumer.png)
+![Consumer](./images/CONSUMER.jpeg)
 
 ### Database
-![Database](./images/database.png)
+![Database](./images/TRANSACTION_VALID.jpeg)
+![Database](./images/TRANSACTION_INVALID.jpeg)
+
 
 ---
 
